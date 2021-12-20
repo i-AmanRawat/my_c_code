@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-    int a[2][2],b[2][2] ;   //defining two matrix a and b 
-    int c[2][2];    //defining empty matrix in which we will store the multiplication of a and b
+    int a[2][2],b[2][2] ;                                                //defining two matrix a and b 
+    int c[2][2];                                                        //defining empty matrix in which we will store the multiplication of a and b
     int i,j,k,sum;
     printf("enter the elements of first 2*2 matrix : \n");
     for( i=0;i<2;i++)
