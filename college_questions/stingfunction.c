@@ -1,10 +1,10 @@
 /*
 
 #include <string.h>
-    strcat()    not working
+    strcat()    working
     strrev()    not working 
     strlen()    working 
-    strcpy()    not working 
+    strcpy()    working 
     strcmp()    working 
     gets()
     puts()
