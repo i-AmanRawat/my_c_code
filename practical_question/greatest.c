@@ -1,3 +1,6 @@
+
+// long method.
+
 #include<stdio.h>
 int main()
 {
@@ -37,3 +40,17 @@ else
 return 0;
 
 }
+
+// short method 
+
+#include <stdio.h>
+int main (){
+    printf("Enter three numbers :\n");
+    int a,b,c;
+    scanf("%d %d %d",&a,&b,&c);
+    int greatest = (a>b&&b>c?a:b>c?b:c);
+    printf("greatest number is %d",greatest);
+
+    return 0 ;
+}
+
